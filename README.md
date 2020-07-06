@@ -1,5 +1,9 @@
 # Smart Window
 
+Aufgabe der Smart Window App ist es Fenster mittels mobiler Anwendung öffnen und schließen zu können.
+Darüber hinaus kann die App verschiedene Sensorwerte anzeigen und Aktoren steuern, nicht nur Fenster. Lichter oder Kaffeemaschinen sind ebenfalls möglich.
+Um die Nutzung weiter zu vereinfachen wäre der nächste Schritt den Nutzer Routinen erstellen zu lassen, damit Aktoren bei Sensorwertänderungen (z.B. Regen oder hohe Temperatur) oder um eine gewissen Uhrzeit eine Aktion ausführen.
+
 Die Smart Window App läuft unter Android, iOS sowie im Web
 
 Login Screen
